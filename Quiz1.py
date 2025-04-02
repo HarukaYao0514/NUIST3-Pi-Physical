@@ -1,3 +1,6 @@
+#Author: Yao Yao
+#Date: 2/4/25
+
 # NUIST Quiz Game in Python
 def quiz():
     print("Welcome to the Animal Quiz!")
